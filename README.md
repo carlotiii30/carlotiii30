@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Sobre mí
+
+- 🌍 Vivo en Granada
+- 🎓 Actualmente estudio Ingeniería Informática en la Universidad de Granada
+- 🐦 Puedes seguirme en [Twitter](https://twitter.com/carlotiii_30)
+
+### Holopin
+[![An image of @carlotiii30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carlotiii30)](https://holopin.io/@carlotiii30)
+  
 <!--
 **carlotiii30/carlotiii30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
