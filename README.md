@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-### Sobre mí
+### About me
 
-- 🌍 Vivo en Granada
-- 🎓 Actualmente estudio Ingeniería Informática en la Universidad de Granada
-- 🐦 Puedes seguirme en [Twitter](https://twitter.com/carlotiii_30)
+- 🌍 I'm currently living in Granada.
+- 🎓 I'm studying Computer Engineering at the University of Granada.
+- 🌱 I’m currently learning Swift.
+- 🤔 I’m looking for help with GANs.
+- ℹ️ You can follow me on [LinkdedIn](https://www.linkedin.com/in/carlota-de-la-vega-soriano-58ba25208/).
 
-### Holopin
-[![An image of @carlotiii30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carlotiii30)](https://holopin.io/@carlotiii30)
-  
 <!--
 **carlotiii30/carlotiii30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
