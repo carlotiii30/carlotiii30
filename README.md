@@ -6,7 +6,7 @@
 - 🎓 I'm studying Computer Engineering at the University of Granada.
 - 🌱 I’m currently learning Swift.
 - 🤔 I’m looking for help with GANs.
-- ℹ️ You can follow me on [LinkdedIn](https://www.linkedin.com/in/carlota-de-la-vega-soriano-58ba25208/).
+- ℹ️ You can follow me on [LinkdedIn](https://www.linkedin.com/in/carlota-de-la-vega/).
 
 <!--
 **carlotiii30/carlotiii30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
