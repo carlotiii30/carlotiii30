@@ -36,8 +36,8 @@
 
 ### :octocat: GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlotiii30&show_icons=true&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlotiii30&theme=dracula" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlotiii30&show_icons=true&theme=dracula" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlotiii30&theme=dracula" alt="GitHub Streak"/>
 </p>
 
 
