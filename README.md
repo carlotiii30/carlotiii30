@@ -32,7 +32,7 @@
 </p>
 
 
-## ➕ More things to know
+## ➕ And more...
 
 ### :octocat: GitHub Stats
 <p align="center">
