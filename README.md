@@ -3,7 +3,7 @@
 
 ## 👩‍💻 About me
 
-### Personal info
+### 🧚‍♀️ Personal info
 - 🌍 I'm currently living in Granada.
 - 🎓 I'm studying Computer Engineering at the University of Granada.
 - 💻 I'm doing internships in ADAION Smart Grid Solutions.
