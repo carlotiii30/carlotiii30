@@ -12,7 +12,6 @@
 
 ### 📋 Current Goals
 - [ ] Develop an app.
-- [ ] Learn flutter.
 - [ ] Finish my Final Degree Project.
 - [ ] Reach a 30 day streak.
 
