@@ -5,8 +5,9 @@
 
 ### 🧚‍♀️ Personal info
 - 🌍 I'm currently living in Granada.
-- 🎓 I'm studying Computer Engineering at the University of Granada.
-- 💻 I'm doing internships in ADAION Smart Grid Solutions.
+- 🎓 I have finished my Bachelor's degree in Computer Engineering at the University of Granada.
+- 🎓 Now I'm pursuing a Master's degree in Computer Engineering at the University of Granada.
+- 💻 I'm a software developer in ADAION Smart Grid Solutions.
 - 🤔 I’m looking for help with GANs.
 
 
