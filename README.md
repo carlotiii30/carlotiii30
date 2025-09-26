@@ -13,8 +13,6 @@
 ### 🎯 Current Goals
 - [ ] Finish and defend my Master's Thesis.
 - [ ] Complete a 30-day coding streak.
-- [ ] Develop and publish my personal projects.
-- [ ] Keep learning about GANs and advanced deep learning.
 
 ### 🛠️ Languages & Tools
 - **Languages**: Python, Java, Kotlin, SQL, JavaScript.
