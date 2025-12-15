@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Carlota</a> 🙋‍♀️</h1>
+<h1 align="center">Hi there, I'm Carlota 🙋‍♀️</h1>
 
 ## 👩‍💻 About me
 
