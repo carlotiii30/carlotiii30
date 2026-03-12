@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Carlota 🙋‍♀️</h1>
 
+<p align="center">
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/carlotadlavega.png" alt="Your Image Badge" />
+</p>
+
 ## 👩‍💻 About me
 
 ### 🧚‍♀️ Personal info
@@ -7,19 +11,40 @@
 - 🎓 Bachelor's Degree in Computer Engineering (University of Granada).
 - 🎓 Currently pursuing a Master's Degree in Computer Engineering (University of Granada).
 - 💻 Software Developer at ADAION Smart Grid Solutions.
-- 🤖 Interested in Generative AI (GANs, Diffusion Models) and Data Engineering.
+- 🤖 Interested in AI-Driven Security.
 - ✍️ Building accessible, useful, and clean applications.
-
-### 🎯 Current Goals
-- [ ] Finish and defend my Master's Thesis.
-- [ ] Complete a 30-day coding streak.
 
 ### 🛠️ Languages & Tools
 - **Languages**: Python, Java, Kotlin, SQL, JavaScript.
 - **Tools**: Docker, FastAPI, Airflow, Supabase, Jetpack Compose, PyTorch, TensorFlow.
 - **Currently Learning**: Advanced GAN architectures, CI/CD in cloud environments.
 
-### 📬 How to reach me
+### ➕ More about me
+
+- I’m fascinated by Adversarial Machine Learning, exploring how to defend AI models against evasion and poisoning attacks.
+- I love building clean and maintainable systems, whether it’s a generative AI pipeline, a web app, or an ETL process.
+- I enjoy mentoring peers and helping others understand concepts clearly.
+
+## :octocat: GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlotiii30&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Carlota's GitHub Stats" />
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlotiii30&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlotiii30&theme=dracula&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+## 📬 How to reach me
 
 <p align="center">
   <a href="https://t.me/carlotiii_30">
@@ -33,22 +58,3 @@
   </a>
 </p>
 
-## ➕ More about me
-
-- I love building clean and maintainable systems, whether it’s a generative AI pipeline, a web app, or an ETL process.
-- I’m interested in making technology more accessible to people with functional diversity.
-- I enjoy mentoring peers and helping others understand concepts clearly.
-
-## :octocat: GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlotiii30&theme=dracula" alt="GitHub Streak"/>
-</p>
-
-## 🕸️ Links
-
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/carlotadelavega-6721/">
-    <img src="https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=Microsoft%20Academic&logoColor=white">
-  </a>
-</p>
