@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Carlota 🙋‍♀️</h1>
 
-<p align="center">
-  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/carlotadlavega.png" alt="Your Image Badge" />
-</p>
-
 ## 👩‍💻 About me
 
 ### 🧚‍♀️ Personal info
